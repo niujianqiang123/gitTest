@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "precommit": "git subtree push --prefix=src/subtree subtree master"
+  }
+}
